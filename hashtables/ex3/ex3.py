@@ -15,8 +15,8 @@ def intersection(arrays):
 
 if __name__ == "__main__":
 
-    arrays = [[1,2,3],
-              [1,4,5],
-              [5,6,7]]
+    arrays = [[1, 2, 3],
+              [1, 4, 5],
+              [5, 6, 7]]
 
     print(intersection(arrays))
